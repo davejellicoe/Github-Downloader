@@ -1,0 +1,27 @@
+{
+  "name": "gdnlr.js",
+  "version": "1.0.0",
+  "description": "request object exploration",
+  "main": "http-requests.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejellicoe/Github-Downloader.git"
+  },
+  "keywords": [
+    "github",
+    "downloader"
+  ],
+  "author": "DaveJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davejellicoe/Github-Downloader/issues"
+  },
+  "homepage": "https://github.com/davejellicoe/Github-Downloader#readme"
+}
